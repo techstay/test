@@ -1,3 +1,3 @@
 # test
 
-This is just a fucking test repo, I will do anything to it.
+This is just a fucking test repo, I can do anything to it.
