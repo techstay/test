@@ -8,8 +8,6 @@
 
 This is just a fucking test repo, I can do anything to it.
 
-![img](image.png)
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
