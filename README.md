@@ -1,6 +1,6 @@
 # test
 
-![GitHub](https://img.shields.io/github/license/techstay/test)
+![GitHub](https://img.shields.io/github/license/techstay/test?style=flat-square)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
